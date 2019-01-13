@@ -1,5 +1,5 @@
 # Welcome to Kashyaps Online Shoe Market Place
- Download all files and make sure the requirements are installed. Once downloaded, please use command line to run the python file by going to teh files location in cmd and running command `python app.py`. This will run a server with the address http://127.0.0.1:6020/. You can interact with the API through *Postman*. Put the given url above into the url section of Postman, and use the commands below, **entered after the url abvove**. Please remember all words are caps sensitive.
+ Download all files and make sure the requirements are installed. Once downloaded, please use command line to run the python file by going to the files location in cmd and running command `python app.py`. This will run a server with the address http://127.0.0.1:6020/. You can interact with the API through *Postman*. Put the given url above into the url section of Postman, and use the commands below, **entered after the url abvove**. Please remember all words are caps sensitive.
 ## Features - As a customer:
   - Front page - Used to show cart and all brands, including those with O inventory. 
     ```````
