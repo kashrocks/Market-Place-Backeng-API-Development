@@ -35,7 +35,7 @@
     POST /new
     ```````
     **And** the following code in the body section of Postman
-    e.g `{"title" : "asics", "price": 47, "inventory_count": 12}`
+    (e.g `{"title" : "asics", "price": 47, "inventory_count": 12}`)
     ```````
     {"title" : str, "price": num, "inventory_count": num}
     ```````
