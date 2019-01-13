@@ -3,7 +3,7 @@
 ## Features - As a customer:
   - Front page - Used to show cart and all brands, including those with O inventory. 
     ```````
-    GET ***NOTHING ELSE IS REQUIRED OTHER THAN THE URL ABOVE**** 
+    GET /
     ```````
   - See whole store inventory - Does not show brands with O inventory
     ```````
